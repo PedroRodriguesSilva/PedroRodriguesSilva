@@ -18,7 +18,7 @@ contacts:
 <div>
 
 
-languages:
+languages and tools:
 
 <img 
   align= "left" 
