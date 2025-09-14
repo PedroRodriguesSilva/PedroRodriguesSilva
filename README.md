@@ -5,8 +5,8 @@ I'm an Information Systems student, I study Python back-end and I'm interested i
 
 <div>
 <a href="https://github.com/PedroRodriguesSilva">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRodriguesSilva&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroRodriguesSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRodriguesSilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 [Snake animation](https://github.com/PedroRodriguesSilva/PedroRodriguesSilva/blob/output/github-contribution-grid-snake.svg)
