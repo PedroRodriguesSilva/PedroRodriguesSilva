@@ -11,14 +11,15 @@ I'm an Information Systems student, I study Python back-end and I'm interested i
 
 
 
-contacts:
+<h3>contacts:</h3>
+
 <div>
   <a href="https://www.linkedin.com/in/pedro-henrique-rodrigues-da-silva-5a7225226/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 <div>
 
 
-languages and tools:
+<h3>languages and tools:</h3>
 
 <img 
   align= "left" 
