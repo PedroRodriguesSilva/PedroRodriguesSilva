@@ -2,15 +2,6 @@ Hello, World! My name is Pedro. 👋
 
 I'm an Information Systems student, I study Python back-end and I'm interested in cybersecurity.
 
-
-<div>
-<a href="https://github.com/PedroRodriguesSilva">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroRodriguesSilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroRodriguesSilva&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
-
 <h3>contacts:</h3>
 
 <div>
@@ -73,5 +64,41 @@ I'm an Information Systems student, I study Python back-end and I'm interested i
   width = "30px" 
   style = "padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+
+<img 
+  align= "left" 
+  alt = "pycharm" 
+  title = "PyCharm" 
+  width = "30px" 
+  style = "padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg"
+/>
+
+<img 
+  align= "left" 
+  alt = "intellij" 
+  title = "IntelliJ" 
+  width = "30px" 
+  style = "padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
+  />
+
+<img 
+  align= "left" 
+  alt = "vscode" 
+  title = "VS code" 
+  width = "30px" 
+  style = "padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"
+/>
+
+<img 
+  align= "left" 
+  alt = "git" 
+  title = "Git" 
+  width = "30px" 
+  style = "padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 </div>
